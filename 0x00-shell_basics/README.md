@@ -13,4 +13,7 @@ __Task 3: The long format__
 *Script that displays current directory contents in long format*
 
 __Task 4: Hidden Files__
-*Script that displays current directory contents, including hidden files (starting with .). Use the long format.* 
+*Script that displays current directory contents, including hidden files (starting with .). Use the long format.*
+
+__Task 5: I love numbers__
+*Script that displays current directory contents in long format, with user IDs displayed numerically & hidden files* 
