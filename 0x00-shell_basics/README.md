@@ -29,3 +29,6 @@ __Task 8: Bye bye Betty__
 
 __Task 9: Bye bye My first directory__
 *Script that deletes the directory my_first_directory that is in the /tmp directory.*
+
+__Task 10: Back to the future__
+*Script that changes the working directory to the previous one*
