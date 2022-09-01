@@ -16,4 +16,7 @@ __Task 4: Hidden Files__
 *Script that displays current directory contents, including hidden files (starting with .). Use the long format.*
 
 __Task 5: I love numbers__
-*Script that displays current directory contents in long format, with user IDs displayed numerically & hidden files* 
+*Script that displays current directory contents in long format, with user IDs displayed numerically & hidden files*
+
+__Task 6: Welcome__
+*Script that creates a directory named my_first_directory in the /tmp/ directory.*
