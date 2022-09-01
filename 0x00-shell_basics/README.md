@@ -5,3 +5,6 @@ __Task 0: Where am I?__
 
 __Task 1: What's in there?__
 *Script that displays the contents list of your current directory*
+
+__Task 2: There is no place like home__
+*Script that changes the working directory to the user’s home directory*
