@@ -24,3 +24,5 @@ __Task 6: Welcome__
 __Task 7: Betty in my first directory__
 *Script that moves the file betty from /tmp/ to /tmp/my_first_directory.*
 
+__Task 8: Bye bye Betty__
+*Script that deletes the file betty is in /tmp/my_first_directory*
