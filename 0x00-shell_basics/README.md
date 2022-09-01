@@ -20,3 +20,7 @@ __Task 5: I love numbers__
 
 __Task 6: Welcome__
 *Script that creates a directory named my_first_directory in the /tmp/ directory.*
+
+__Task 7: Betty in my first directory__
+*Script that moves the file betty from /tmp/ to /tmp/my_first_directory.*
+
