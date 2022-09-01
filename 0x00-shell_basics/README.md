@@ -26,3 +26,6 @@ __Task 7: Betty in my first directory__
 
 __Task 8: Bye bye Betty__
 *Script that deletes the file betty is in /tmp/my_first_directory*
+
+__Task 9: Bye bye My first directory__
+*Script that deletes the directory my_first_directory that is in the /tmp directory.*
