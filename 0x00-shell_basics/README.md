@@ -8,3 +8,6 @@ __Task 1: What's in there?__
 
 __Task 2: There is no place like home__
 *Script that changes the working directory to the user’s home directory*
+
+__Task 3: The long format__
+*Script that displays current directory contents in long format* 
