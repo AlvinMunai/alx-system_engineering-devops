@@ -17,3 +17,7 @@ __4. Empty!__
 
 __5. Execute__
 *Script that adds execute permission to the owner of the file 'hello'.*
+
+__6. Multiple Permissions__
+*Script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.*
+*The file hello will be in the working directory.*
