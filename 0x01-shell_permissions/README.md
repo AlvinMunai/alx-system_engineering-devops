@@ -5,3 +5,6 @@ __0. My name is Betty__
 
 __1. Who am I__
 *Script that prints the effective username of the current user.*
+
+__2. Groups__
+*Script that prints all the groups the current user is part of.*
