@@ -24,3 +24,6 @@ __6. Multiple Permissions__
 
 __7. Everybody!__
 *Script that adds execution permission to the owner, the group owner and the other users, to the file hello in the working directory*
+
+__8. James Bong__
+*Script that sets owner and group permission to none and other users all permissions*
