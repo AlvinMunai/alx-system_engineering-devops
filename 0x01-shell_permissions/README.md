@@ -28,5 +28,8 @@ __7. Everybody!__
 __8. James Bong__
 *Script that sets owner and group permission to none and other users all permissions*
 
-__9. John Doe_
+__9. John Doe__
 *Script that sets the mode of hello to this: -rwxr-x-wx 1*
+
+__10. Look in the mirror__
+*Script that sets the mode of the file hello the same as olleh’s mode*
