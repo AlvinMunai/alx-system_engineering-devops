@@ -48,3 +48,6 @@ __Task 14: Copy HTML files__
 
 __Task 15: Let’s move__
 *Script that moves all files beginning with an uppercase letter to the directory /tmp/u*
+
+__Task 16: Clean Emacs__
+*Script that deletes all files in the current working directory that end with the character ~.*
