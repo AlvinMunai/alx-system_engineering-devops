@@ -27,3 +27,6 @@ __7. Everybody!__
 
 __8. James Bong__
 *Script that sets owner and group permission to none and other users all permissions*
+
+__9. John Doe_
+*Script that sets the mode of hello to this: -rwxr-x-wx 1*
