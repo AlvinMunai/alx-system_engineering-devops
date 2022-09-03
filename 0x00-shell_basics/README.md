@@ -45,3 +45,6 @@ __Task 13: We are symbols, and inhabit symbols__
 
 __Task 14: Copy HTML files__
 *Script that copies all the HTML files from the current working directory to the parent of the working directory*
+
+__Task 15: Let’s move__
+*Script that moves all files beginning with an uppercase letter to the directory /tmp/u*
