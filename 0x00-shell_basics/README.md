@@ -39,3 +39,6 @@ current directory and the parent of the working directory and the /boot director
 
 __Task 12: File Type__
 *Script that prints the type of the file named iamafile. The file iamafile will be in the /tmp directory*
+
+__Task 13: We are symbols, and inhabit symbols__
+*Script that creates a symbolic link to /bin/ls, named __ls__.*
