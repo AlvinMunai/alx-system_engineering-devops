@@ -33,3 +33,6 @@ __9. John Doe__
 
 __10. Look in the mirror__
 *Script that sets the mode of the file hello the same as olleh’s mode*
+
+__11. Directories__
+*Script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.*
