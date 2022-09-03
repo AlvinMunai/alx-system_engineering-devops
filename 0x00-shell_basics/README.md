@@ -42,3 +42,6 @@ __Task 12: File Type__
 
 __Task 13: We are symbols, and inhabit symbols__
 *Script that creates a symbolic link to /bin/ls, named __ls__.*
+
+__Task 14: Copy HTML files__
+*Script that copies all the HTML files from the current working directory to the parent of the working directory*
